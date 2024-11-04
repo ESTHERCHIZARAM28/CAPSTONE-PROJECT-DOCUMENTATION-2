@@ -184,5 +184,10 @@ Pivort tables was used to summarize the data.
 
 - COUNT OF CANCELLED BY SUBSCRIPTION TYPE
 
+ ![image](https://github.com/user-attachments/assets/f3da8ba1-839e-4347-bd99-b236a6bb4b1b)
+
+ - SUBSCRIPTION TYPE BY AVERAGE SUBSCRIPTION DURATION
+
   
+ 
 
