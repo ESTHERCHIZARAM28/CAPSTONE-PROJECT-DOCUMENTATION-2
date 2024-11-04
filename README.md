@@ -169,3 +169,8 @@ where Canceled = 0
 ````
 
 
+### DATA SUMMARIZATION
+
+##### PIVORT TABLES
+- Pivort tables was used to summarize the data.
+
