@@ -109,4 +109,63 @@ Count for Basic =COUNTIF(D2:D33788,D33771)
 Count for Premuim =COUNTIF(D2:D33788,D33768)
 ````
 ````
-Count for Standard =COUNTIF(D2:D33788,D33769) 
+Count for Standard =COUNTIF(D2:D33788,D33769)
+````
+
+
+##### SQL QUERIES USED FOR THE ANALYSIS
+
+````
+select * from [dbo].[Customer Data(capstone project)]
+````
+````
+Select  region, count(distinct Customerid) as total_customers 
+from [dbo].[Customer Data(capstone project)]
+Group by region;
+````
+````
+Select top 1 subscriptiontype, count(distinct customerid) as total_customers
+From[dbo].[Customer Data(capstone project)]
+Group by subscriptiontype 
+Order by total_customers desc;
+````
+````
+Select CustomerID, datediff(month, subscriptionstart, subscriptionend) As Subscription_duration, Canceled
+from [dbo].[Customer Data(capstone project)]
+where DATEDIFF(month, subscriptionstart, subscriptionend) < = 6
+````
+````
+ Select avg(datediff(month, subscriptionstart, subscriptionend)) as avg_subscription_duration
+From[dbo].[Customer Data(capstone project)]
+````
+````
+ Select customerid, datediff(month, subscriptionstart, subscriptionend) As Subscription_duration, Canceled
+From[dbo].[Customer Data(capstone project)]
+Where datediff(month, subscriptionstart,  subscriptionend) > 12;
+````
+````
+Select subscriptiontype,
+Sum(revenue) as total_revenue 
+From[dbo].[Customer Data(capstone project)]
+Group by subscriptiontype;
+````
+````
+Select top 3 region, 
+Count(*) as Canceled_count
+From[dbo].[Customer Data(capstone project)]
+Where Canceled = 1
+Group by region
+Order by region Asc;
+````
+````
+select count(canceled) As Canceled_subscription
+from[dbo].[Customer Data(capstone project)]
+where Canceled = 1
+````
+````
+select COUNT(canceled) As Active_Subscription
+from[dbo].[Customer Data(capstone project)]
+where Canceled = 0
+````
+
+
