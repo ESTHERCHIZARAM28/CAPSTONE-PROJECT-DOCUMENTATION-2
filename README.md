@@ -172,5 +172,13 @@ where Canceled = 0
 ### DATA SUMMARIZATION
 
 ##### PIVORT TABLES
-- Pivort tables was used to summarize the data.
+Pivort tables was used to summarize the data.
+
+- REGION BY REVENUE
+
+  ![image](https://github.com/user-attachments/assets/2f58413e-c0ac-4e39-8336-a718011df4b6)
+
+- SUBSCRIPTION TYPE BY REVENUE
+
+  
 
