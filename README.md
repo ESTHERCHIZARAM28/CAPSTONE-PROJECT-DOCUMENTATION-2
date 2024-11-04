@@ -188,6 +188,7 @@ Pivort tables was used to summarize the data.
 
  - SUBSCRIPTION TYPE BY AVERAGE SUBSCRIPTION DURATION
 
-  
+  ![image](https://github.com/user-attachments/assets/253a4653-ec99-4c95-bd10-e369b5b314c2)
+
  
 
