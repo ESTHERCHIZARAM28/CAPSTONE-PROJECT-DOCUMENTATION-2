@@ -180,5 +180,9 @@ Pivort tables was used to summarize the data.
 
 - SUBSCRIPTION TYPE BY REVENUE
 
+  ![image](https://github.com/user-attachments/assets/0573f070-0829-4970-ac24-ed2baa8b947a)
+
+- COUNT OF CANCELLED BY SUBSCRIPTION TYPE
+
   
 
