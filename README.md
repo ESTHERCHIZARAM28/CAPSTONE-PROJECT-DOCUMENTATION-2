@@ -225,6 +225,9 @@ Pivort tables was used to summarize the data.
 
 - BASIC
 
+![image](https://github.com/user-attachments/assets/25a5dc5d-2a47-4307-87a4-8f7552708826)
+
+- STANDARD
 
 
 
