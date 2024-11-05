@@ -229,6 +229,11 @@ Pivort tables was used to summarize the data.
 
 - STANDARD
 
+![image](https://github.com/user-attachments/assets/cee8343f-85c0-49fc-aa12-37a4a918e8e1)
+
+- PREMIUM
+
+
 
 
 
