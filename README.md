@@ -218,6 +218,12 @@ Pivort tables was used to summarize the data.
 
 - SOUTH
 
+![image](https://github.com/user-attachments/assets/9727051c-4bdc-4859-bee8-a0f085cb9e94)
+
+
+##### FILTER BY SUBSCRIPTION TYPE
+
+- BASIC
 
 
 
