@@ -193,7 +193,12 @@ Pivort tables was used to summarize the data.
 
   ### DATA VISUALIZATION
 
+- CUSTOMER DATA TABLE SHOWING APPLIED STEPS
   
+  ![image](https://github.com/user-attachments/assets/565c2b5a-3dbb-4503-9c07-499fb26a8056)
+
+  
+
 
  
 
