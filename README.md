@@ -197,7 +197,16 @@ Pivort tables was used to summarize the data.
   
   ![image](https://github.com/user-attachments/assets/565c2b5a-3dbb-4503-9c07-499fb26a8056)
 
-  
+- CUSTOMER DATA DASHBOARD
+
+![image](https://github.com/user-attachments/assets/58a9201d-8dee-47c4-b24e-881c932c6bd2)
+
+
+##### FILTER BY REGION
+
+- EAST
+
+
 
 
  
