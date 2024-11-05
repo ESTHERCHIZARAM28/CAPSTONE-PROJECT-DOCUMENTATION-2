@@ -206,6 +206,11 @@ Pivort tables was used to summarize the data.
 
 - EAST
 
+![image](https://github.com/user-attachments/assets/e2beb9be-a6e9-4ced-8b7e-783af43a0f8f)
+
+- NORTH
+
+
 
 
 
