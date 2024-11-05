@@ -236,6 +236,38 @@ Pivort tables was used to summarize the data.
 ![image](https://github.com/user-attachments/assets/e2dde8a8-8564-4af8-a6c4-93d87e24595d)
 
 
+### INFERENCES
+
+- OVERALL PERFORMANCE: The total sum of revenue was Sixty-seven Million, Five Hundred anf forty Thousand , One Hundred and Seventy-five. The count of canellation is Fifteen Thousand, One Hundred and Seventy-five, this means withe the out of the total customer which is Thirty-three Thousand,Seven Hundred and Eighty-seven, Fifteen Thousand, One Hundred and Seventy-five canceled leaving Eighteen Thousand, Six Hundred and Twelve as count of renewed customers. This means the number of renewed customer is greater than the number of canceled cvustomer.
+
+- CANCELLATION BY REGION
+
+1. EAST: The East having a total sum of revenue of Sixteen Million, Nine Hundred and Fifty-eight Thousand, Seven Hundred and sixty-three, Total number of customers of eight Thousand Four Hundred and Eighty-eight has no count of cancellation. This means that the customers at the East renewed their subscription.
+
+2. NORTH: The North having a total sum of revenue of Sixteen Million, Eight Hundred and Seventeeen Thousand, Nine Hundred and Seventy-two, Total number of customers of eight Thousand Four Hundred and Thirty-three has count of cancellation of Five Thousand and Sixty-seven. This means that Five Thousand and Sixty-seven customers did not renew their subscription.
+
+3. WEST: The West having a total sum of revenue of Sixteen Million, Eight Hundred and Sixty-four Thousand, Three Hundred and Seventy-six, Total number of customers of eight Thousand Four Hundred and Twenty has count of cancellation of Five Thousand and Fourty-four. This means that Five Thousand and Fourty-four customers did not renew their subscription.
+
+4. SOUTH: The South having a total sum of revenue of Sixteen Million, Eight Hundred and Nienty-nine Thousand, Sixty-four, Total number of customers of eight Thousand Four Hundred and Fourty-six has count of cancellation of Five Thousand and Sixty-four. This means that Five Thousand and Sixty-four customers did not renew their subscription.
+
+- CANCELLATION BY SUBSCRIPTION TYPE
+
+1. BASIC: The basic subscription type has the sum of total revenue as Thirty-three Milllion, Seven Hundred and Seventy-six Thousand, Seven Hundred and Thirty-five. The total number of customers using the basic subscription type is Sixteen Thousand, Nine Hundred and Twenty-one with the count of cancellation of Five Thounsand and Sixty-seven. This means that Five Thounsand and Sixty-seven of coustomers using the basic subscription type did not renew. This subscription type was used in the East and North region, this means it is not active in the south and west region.
+
+3. STANDARD: The standard subscription type has the sum of total revenue as Sixteen Milllion, Eight Hundred and Sixty-four Thousand, Three Hundred and Seventy-six. The total number of customers using the standard subscription type is Eight Thousand, Four Hundred and Twenty with the count of cancellation of Five Thounsand and Foury-four. This means that Five Thounsand and Foury-four of coustomers using the standard subscription type did not renew. This subscription type was used only in the West region, this means it is not active in the south, east and north region.
+
+4. PREMIUM: The premium subscription type has the sum of total revenue as Sixteen Milllion, Eight Hundred and Ninety-nine Thousand and Sixty-four. The total number of customers using the premium subscription type is Eight Thousand, Four Hundred and Fourty-six with the count of cancellation of Five Thounsand and Sixty-four. This means that Five Thounsand and Sixty-four of coustomers using the premium subscription type did not renew. This subscription type was used only in the south region, this means it is not active in the west, east and north region.
+
+
+
+### CONCLUSION
+
+In summary, The East region does not have any record of cancelled subscription. The Nort region has the highest number of cancellation. 
+According to the total number of customers, Basic subscription type is the most popular and highest used subscription type.
+I recommend that a customer survey should be carried out to know the reason why some customers in the North, south and West region cancelled their subscription. This will help to meet up with the customers expectations and desire which can led to low rate of cancellation.
+
+
+
 
 
 
